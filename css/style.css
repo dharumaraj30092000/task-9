@@ -130,7 +130,7 @@
 /*--------- card ----------*/
 .card {
 	width: 100%;
-	min-height: 439px;
+	min-height: 448px;
 	box-shadow: 0px 0px 8px -1px #ccc;
 	border: none !important;
 	overflow: hidden;
